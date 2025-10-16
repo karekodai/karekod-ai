@@ -1,0 +1,26 @@
+{
+  "title": "Karekod Builder - Demo Site",
+  "description": "A demonstration website built with Karekod Builder modular page blocks",
+  "metadata": {
+    "author": "Karekod Team",
+    "keywords": ["website builder", "modular", "page blocks"]
+  },
+  "blocks": [
+    {
+      "name": "coming-soon",
+      "description": "A full-screen coming soon page with gradient background, animated elements, and loading indicator. Perfect for announcing upcoming products or services.",
+      "variables": {
+        "mainHeading": "Something Amazing",
+        "subHeading": "is coming soon",
+        "description": "We're working hard to bring you something special. Stay tuned!",
+        "iconUrl": "/assets/coming-soon-icon.svg",
+        "backgroundColor": "linear-gradient(114.762deg, rgb(127, 34, 254) 0%, rgb(152, 16, 250) 50%, rgb(67, 45, 215) 100%)",
+        "textColor": "#ffffff",
+        "gradientTextColor": "linear-gradient(90deg, rgb(252, 206, 232) 0%, rgb(233, 212, 255) 50%, rgb(162, 244, 253) 100%)",
+        "showLoadingDots": true,
+        "showDecorativeElements": true
+      }
+    }
+  ]
+}
+
